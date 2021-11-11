@@ -1,0 +1,80 @@
+{
+    "welcome": "Welcome",
+    "home": {
+        "title": "HOME",
+        "text": "Welcome to my webpage. I am a post-doctoral researcher at the Chair of Political Sociology and Social Policy at Humboldt University in Berlin. You can find out more about me here, read about my research interests here or consult the publications list here. "
+    },
+    "aboutme": {
+        "title": "ABOUT ME",
+        "text": "I am a post-doctoral researcher at the Chair of Political Sociology and Social Policy at Humboldt University in Berlin.",
+        "text1": "Most of my research is driven by my interest in understanding the determinants of universal basic income support. In fact, this was the central topic of my doctoral dissertation. I am also interested more broadly in the determinants of welfare state preferences; of which I have also ongoing research and I am teaching a course at Humboldt University that I designed.",
+        "text2": "My research interests also include information/processing of elites and public opinion, perceptions and determinants on feminist and sexual violence, as well as the role of interest groups in the policy process. You can find more about these interests here.",
+        "text3": "Before joining Humboldt, I completed my PhD at the University of Barcelona 2017 to 2021, with Cum Laude. I completed this doctoral dissertation with a FPI scholarship of the ministry of competitiveness in the framework of the project transparency /q/dem . During this time, I collaborated with the research group Qdem in several projects like the transparency project and interest groups.",
+        "text4": "Before engaging in my doctoral thesis, I completed a Masters degree on Political Analysis and Institutional advising at the University of Barcelona, where I also worked as a research assistant for the Q-dem research group. Before this, I also completed a BSc in Politics and International Relations at the University of Bath, and worked for the Saudi Arabian embassy in Madrid."
+    },
+    "research": {
+        "title": "RESEARCH"
+    },
+    "preferences": {
+        "title": "PREFERENCES FOR WELFARE REFORM AND UNIVERSAL BASIC INCOME",
+        "text": "My PhD dissertation analyses the determinants of universal basic income support in comparative perspective. Given the challenges of uncovering what particular aspects of different cash transfers are preferred, I designed my own. Some of this work has been accepted for publication in the Journal of European Public Policy and the Journal of European Social Policy."
+    },
+    "interest": {
+        "title": "INTEREST GROUPS",
+        "text": "Some of my previous work has examined the role of interest groups in the policy process. During my years as a research assistant for QDEM and doctoral student I collaborated in the development of the first database to contain all interest groups in Spain. Aside from this database, we also designed a survey directed at this interest group population to find out more about their resources, activities, performance, etc. Part of this research derived into a research paper that explains the interactions between interest groups and political parties, in which we show that XXXXXX",
+        "text1": "In the framework of another research initiative, we also explored in collaboration  with LCB and CC public opinion perceptions on interest groups. You can find out more about this here."
+    },
+    "information": {
+        "title": "INFORMATION/PROCESSING",
+        "text": "One of my ongoing research interests is to understand how individuals process information. I am interested both in looking at public opinion and political elites, and whether or not they process this information differently, and if so why. In particular, I am interested at looking at the impact of scientific evidence in the attention given to information and whether this affects preferences or support towards different policies. I have already published a paper on this topic, and have other work in progress which you can find here."
+    },
+    "gender": {
+        "title": "GENDER AND SEXUAL VIOLENCE",
+        "text": "While formal gender equality is increasing, persistent inequalities remain between men and women. Some forms of inequality are not only remaining but are even exacerbating, one of such forms is sexual violence. In this sense, I am interested in studying public opinion perceptions on this matter, what and whether they identify as sexual violence. Crucially, my research focuses in exploring the drivers of such violence and effective policy interventions aimed at curbing this phenomenon. In previous research initiatives, I worked with a team of five women to explore the different forms of sexual violence, of which you can read more about here. I am currently working on a survey that will be conducted in all Catalan universities and will explore the perceptions of sexual violence and which are the most effective interventions to halt this phenomenon. This research is funded by the Josep Irla Foundation."
+    },
+    "teaching": {
+        "title": "TEACHING",
+        "text": "2018-2019. Collective Action and Interest Groups. In Spanish. 4th year optional course for the Undergraduate Degree in Political Science and Administration at the university of Barcelona ",
+        "text1": "2021. Teaching Assistant. Postgraduate",
+        "text2": "2021-2022. Winter semester. BA Seminar on Public opinion of welfare state reform and social policy. Humboldt University",
+        "text3": "2021-2022. Winter semester. Advanced seminar on Growth, Inequality and Poverty. Humboldt University",
+        "text4": "2022. Master degree. Growth, Inequality and Poverty. IBEI"
+    },
+    "cv": {
+        "title": "CV",
+        "text": "CV"
+    },
+    "publications": {
+        "title": "PUBLICATIONS",
+        "text": "PUBLICATIONS"
+    },
+    "journal": {
+        "title": "JOURNAL ARTICLES",
+        "text": "Rincón L., Forthcoming. A Robin Hood for All:- Support for universal cash transfers in a context of policy competition, a conjoint experiment in Spain. Journal of European Public Policy.",
+        "text1": "Rincón L., Vlandas, T., Hiilamo, H., Forthcoming. What’s not to like? Benefit design, funding structure and support for a universal basic income. Journal of European Social Policy.",
+        "text2": "Rincón, L., 2020. ‘The silver bullet reversed: Does evidence increase policy-maker attention to policy proposals?’ Policy & Evidence.",
+        "text3": "‘Snowballing or wilting? Identifying public support for universal basic income.’ 2020. with Chrisp, J., and Pulkka, V.V., Journal of International and Comparative Social Policy.",
+        "text4": "‘The Contingent Character of Interest Groups-Political Parties’ 2020. with Chaqués, L., Cristancho, C., and Muñoz, L. Journal of Public Policy."
+    },
+    "book": {
+        "title": "BOOK CHAPTERS",
+        "text": "‘Framing Basic Income Policy in Comparative Perspective.’ with Perikoo, J., and Van Draanen, J., In: Handbook of Basic Income Studies (Palgrave Macmillan). ",
+        "text1": "Rincón, L. (Forthcoming: 2021). With Vlandas, T., 2021. Basic Income and Labour Market Policy. Handbook of Labour Market Policy in Rich Democracies in Edward Elgar, edited by Daniel Clegg and Niccolo Durazzi"
+    },
+    "working": {
+        "title": "WORKING PAPERS",
+        "text": "2021. ‘Priors are priority: scientific information, prior beliefs and support for universal basic income’",
+        "text1": "2021. ‘The paradox of basic income: how redistribution preferences and perceptions shape support for welfare cash transfers’",
+        "text2": "2021. ‘Revisiting redistribution: perceptions on the redistributive impact of cash transfers’",
+        "text3": "2020. ‘From the gender gap to the gender jigsaw: preferences for welfare state reform’"
+    },
+    "media": {
+        "title": "MEDIA/OUTREACH/DISSEMINATION",
+        "text": "Science for policy podcast/ ",
+        "text1": "Evidence and Policy blog. "
+    },
+    "contact": {
+        "title": "CONTACT",
+        "text": "CONTACT"
+    }
+}
