@@ -24,6 +24,11 @@ import Working from '../Working/Working';
 import Media from '../Media/Media';
 import Contact from '../Contact/Contact';
 
+import TwitterIcon from '../../icons/twitter.svg';
+import LinkedInIcon from '../../icons/linkedin.svg';
+import FacebookIcon from '../../icons/facebook.svg';
+import InstagramIcon from '../../icons/instagram.svg';
+
 function Header ({ t }) {
 
     const changeLanguage = (lng) => {
@@ -34,16 +39,21 @@ function Header ({ t }) {
         <div>
             <div className="col-xl-2">
             </div>
-            <div className="col-xl-12 col-sm-8">
+            <div className="col-xl-12">
                 <Router>
                 <div className="logo">
-                    <span>LOGO</span>
-                    <h1>{t('welcome')}</h1>
+                    <span>LEIRE RINCON</span>
                 </div>
                 <Navbar bg="light" expand="sm" sticky="top" className="navbar-container">
                     <Container>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
+                        <Nav>
+                            <Nav.Link><img src={TwitterIcon} alt="Twitter" className="icon"/></Nav.Link>
+                            <Nav.Link><img src={LinkedInIcon} alt="LinkedIn" className="icon"/></Nav.Link>
+                            <Nav.Link><img src={FacebookIcon} alt="Facebook" className="icon"/></Nav.Link>
+                            <Nav.Link><img src={InstagramIcon} alt="Instagram" className="icon"/></Nav.Link>
+                        </Nav>
                         <Nav className="m-auto">
                             <Nav.Link as={Link} to="/">{t('home.title')}</Nav.Link>
                             <Nav.Link as={Link} to="/aboutme">{t('aboutme.title')}</Nav.Link>

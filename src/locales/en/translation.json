@@ -1,80 +1,93 @@
 {
     "welcome": "Welcome",
     "home": {
-        "title": "HOME",
-        "text": "Welcome to my webpage. I am a post-doctoral researcher at the Chair of Political Sociology and Social Policy at Humboldt University in Berlin. You can find out more about me here, read about my research interests here or consult the publications list here. "
+        "title": "Home",
+        "text": "Welcome to my webpage. I am a post-doctoral researcher at the Chair of Political Sociology and Social Policy at Humboldt University in Berlin."
     },
     "aboutme": {
-        "title": "ABOUT ME",
-        "text": "I am a post-doctoral researcher at the Chair of Political Sociology and Social Policy at Humboldt University in Berlin.",
-        "text1": "Most of my research is driven by my interest in understanding the determinants of universal basic income support. In fact, this was the central topic of my doctoral dissertation. I am also interested more broadly in the determinants of welfare state preferences; of which I have also ongoing research and I am teaching a course at Humboldt University that I designed.",
-        "text2": "My research interests also include information/processing of elites and public opinion, perceptions and determinants on feminist and sexual violence, as well as the role of interest groups in the policy process. You can find more about these interests here.",
-        "text3": "Before joining Humboldt, I completed my PhD at the University of Barcelona 2017 to 2021, with Cum Laude. I completed this doctoral dissertation with a FPI scholarship of the ministry of competitiveness in the framework of the project transparency /q/dem . During this time, I collaborated with the research group Qdem in several projects like the transparency project and interest groups.",
-        "text4": "Before engaging in my doctoral thesis, I completed a Masters degree on Political Analysis and Institutional advising at the University of Barcelona, where I also worked as a research assistant for the Q-dem research group. Before this, I also completed a BSc in Politics and International Relations at the University of Bath, and worked for the Saudi Arabian embassy in Madrid."
+        "title": "About Me",
+        "text": "I am a post-doctoral researcher at the Chair of Political Sociology and Social Policy at Humboldt University in Berlin. Before joining Humboldt, I was a pre-doctoral fellow at IBEI and UB, with funding from the Spanish Ministry of Economy, Industry and Competitiveness (FPI), linked to the project of Transparency Policy in a context of Multilevel Governance. (IP: Laura Chaqués-Bonafont). During my thesis I have been a visiting researcher at the department of Politics and International Relations at the University of Oxford.",
+        "text1": "Before engaging in my doctoral thesis, I completed a Master’s degree on Political Analysis and Institutional Advising at the University of Barcelona, where I also worked as a research assistant for the Quality of Democracy (Q-Dem: ",
+        "text2": ") research group. Before this, I also completed a BSc in Politics and International Relations at the University of Bath and worked for the Saudi Arabian embassy in Madrid.",
+        "text3": "Today, most of my research revolves around understanding the determinants of Universal Basic Income support, which was in fact the topic of my doctoral dissertation. However, my research interests also include a broad range of topics which you can find more about here "
     },
     "research": {
-        "title": "RESEARCH"
+        "title": "Research"
     },
     "preferences": {
-        "title": "PREFERENCES FOR WELFARE REFORM AND UNIVERSAL BASIC INCOME",
-        "text": "My PhD dissertation analyses the determinants of universal basic income support in comparative perspective. Given the challenges of uncovering what particular aspects of different cash transfers are preferred, I designed my own. Some of this work has been accepted for publication in the Journal of European Public Policy and the Journal of European Social Policy."
+        "title": "Preferences For Welfare Reform And Universal Basic Income",
+        "text": "In my PhD dissertation I examine the intriguing question of what would lead individuals to support a cash transfer for all. That is, a universal, unconditional basic income. The traditional theoretical approaches to welfare preferences have a hard time shedding a light on this question, given that it is unclear how these would apply to a universal cash transfer that everyone would receive. In addition, previous empirical research cannot fully uncover this question as it shows that predictors of UBI preferences are the same than of other schemes like targeted cash transfers. Hence, this work cannot explain whether a UBI is preferred over other alternatives, and what aspects of a UBI seem more attractive or repealing to individuals. To overcome these challenges, I employ novel theoretical arguments and design two online experiments that altogether enabled to uncover what particular aspects of a UBI play out in configuring support for this policy alternative. Some of the outputs of this research have been accepted for publication in the Journal of European Public Policy and the Journal of European Social Policy."
     },
     "interest": {
-        "title": "INTEREST GROUPS",
-        "text": "Some of my previous work has examined the role of interest groups in the policy process. During my years as a research assistant for QDEM and doctoral student I collaborated in the development of the first database to contain all interest groups in Spain. Aside from this database, we also designed a survey directed at this interest group population to find out more about their resources, activities, performance, etc. Part of this research derived into a research paper that explains the interactions between interest groups and political parties, in which we show that XXXXXX",
-        "text1": "In the framework of another research initiative, we also explored in collaboration  with LCB and CC public opinion perceptions on interest groups. You can find out more about this here."
+        "title": "Interest Groups",
+        "text": "I developed this interest during my years as a Research Assistant for Q-DEM (",
+        "text1": ") and as a pre-doctoral researcher at UB and IBEI, when I collaborated in the development of the first database containing all interest groups in Spain. Aside from this database, we also designed a survey directed at this interest group population to find out more about their resources, activities, performance, and lobbying strategies (find out more here: ",
+        "text2": "). Part of this research derived into a paper (link: ",
+        "text3": ")that explains the interactions between interest groups and political parties, in which we show that mainstream political parties are still the main targets of interest groups, but this interaction also depends on the resources that interest groups possess as well as the issues they deal with, with most salient issues intensifying interactions between these two sets of actors.",
+        "text4": "In the framework of another research initiative, we also explored in collaboration  with LCB and CC public opinion perceptions on interest groups. You can find out more about this here."
     },
     "information": {
-        "title": "INFORMATION/PROCESSING",
-        "text": "One of my ongoing research interests is to understand how individuals process information. I am interested both in looking at public opinion and political elites, and whether or not they process this information differently, and if so why. In particular, I am interested at looking at the impact of scientific evidence in the attention given to information and whether this affects preferences or support towards different policies. I have already published a paper on this topic, and have other work in progress which you can find here."
+        "title": "Information/processing",
+        "text": "Under which conditions will individuals update their beliefs and pay attention to new policy issues? Crucially, can scientific information lead to an increased individual attention to topics and update beliefs or support towards new policy alternatives? These exciting questions have oriented some of my previous research and continue to guide some of my current work. In a previous paper, I examined whether political elites are responsive to scientific information and found that ideas attract more attention than scientific information. I am currently working on whether this is also the case amongst the broader public, looking at the impact of scientific information on individual attention to policy alternatives, update of beliefs and support for different policy proposals."
     },
     "gender": {
-        "title": "GENDER AND SEXUAL VIOLENCE",
-        "text": "While formal gender equality is increasing, persistent inequalities remain between men and women. Some forms of inequality are not only remaining but are even exacerbating, one of such forms is sexual violence. In this sense, I am interested in studying public opinion perceptions on this matter, what and whether they identify as sexual violence. Crucially, my research focuses in exploring the drivers of such violence and effective policy interventions aimed at curbing this phenomenon. In previous research initiatives, I worked with a team of five women to explore the different forms of sexual violence, of which you can read more about here. I am currently working on a survey that will be conducted in all Catalan universities and will explore the perceptions of sexual violence and which are the most effective interventions to halt this phenomenon. This research is funded by the Josep Irla Foundation."
+        "title": "Gender And Sexual Violence",
+        "text": "While formal gender equality is increasing, other forms of gender inequality persist and are remain even exacerbating, like sexual violence. This is not only a question of gender justice or human rights but also an important health issue. The invisibilization of sexual violence, public opinion tolerance to this form of violence and the public’s ability to identify it as such, are crucial to the development and persistence of sexual violence. In this sense, my research focuses in the exploration of public perceptions of such violence and identifying the most effective policy interventions to curb this phenomenon. In previous research initiatives, I worked with a multidisciplinary team of five women to explore the different forms of sexual violence, of which you can read more about here. I am currently working on an extension of this research, by using an experimental approach that will test which policy interventions may be most effective at reducing such violence (find out more here: ",
+        "text1": "). This research is funded by the Josep Irla Foundation (find out more here: ",
+        "text2": ")."
     },
     "teaching": {
-        "title": "TEACHING",
-        "text": "2018-2019. Collective Action and Interest Groups. In Spanish. 4th year optional course for the Undergraduate Degree in Political Science and Administration at the university of Barcelona ",
-        "text1": "2021. Teaching Assistant. Postgraduate",
-        "text2": "2021-2022. Winter semester. BA Seminar on Public opinion of welfare state reform and social policy. Humboldt University",
-        "text3": "2021-2022. Winter semester. Advanced seminar on Growth, Inequality and Poverty. Humboldt University",
-        "text4": "2022. Master degree. Growth, Inequality and Poverty. IBEI"
+        "title": "Teaching",
+        "text": "2018-2019. Collective Action and Interest Groups (Spanish). 4th year optional course for the Undergraduate Degree in Political Science and Administration. University of Barcelona",
+        "text1": "2021-2022. BA Seminar on Public opinion of welfare state reform and social policy (English). Winter semester. Humboldt University",
+        "text2": "2021-2022. Advanced seminar on Growth, Inequality and Poverty (English). Winter semester. Humboldt University",
+        "text3": "2022. Growth, Inequality and Poverty (English). Part of the Master’s Degree. IBEI",
+        "text4": "Teaching assistant",
+        "text5": "January – February 2021. Postgraduate course, Data Analyst for political analysis and public administration. University of Barcelona."
     },
     "cv": {
         "title": "CV",
         "text": "CV"
     },
     "publications": {
-        "title": "PUBLICATIONS",
+        "title": "Publications",
         "text": "PUBLICATIONS"
     },
     "journal": {
-        "title": "JOURNAL ARTICLES",
+        "title": "Journal Articles",
         "text": "Rincón L., Forthcoming. A Robin Hood for All:- Support for universal cash transfers in a context of policy competition, a conjoint experiment in Spain. Journal of European Public Policy.",
         "text1": "Rincón L., Vlandas, T., Hiilamo, H., Forthcoming. What’s not to like? Benefit design, funding structure and support for a universal basic income. Journal of European Social Policy.",
-        "text2": "Rincón, L., 2020. ‘The silver bullet reversed: Does evidence increase policy-maker attention to policy proposals?’ Policy & Evidence.",
-        "text3": "‘Snowballing or wilting? Identifying public support for universal basic income.’ 2020. with Chrisp, J., and Pulkka, V.V., Journal of International and Comparative Social Policy.",
-        "text4": "‘The Contingent Character of Interest Groups-Political Parties’ 2020. with Chaqués, L., Cristancho, C., and Muñoz, L. Journal of Public Policy."
+        "text2": "Rincón, L., 2020. The silver bullet reversed: Does evidence increase policy-maker attention to policy proposals? Policy & Evidence.",
+        "text3": "Chrisp, J., Pulkka, V.V., Rincon, L., 2020. Snowballing or wilting? Identifying public support for universal basic income. Journal of International and Comparative Social Policy.",
+        "text4": "Chaqués, L., Cristancho, C., and Muñoz, L. and Rincon, L., 2020. The Contingent Character of Interest Groups-Political Parties. Journal of Public Policy.",
+        "text5": "Aside from publication I have also acted as a reviewer for Journal of Public Policy, Journal of European Social Policy, Journal of Common Market Studies, Social Policy and Society and Basic Income Studies."
     },
     "book": {
-        "title": "BOOK CHAPTERS",
-        "text": "‘Framing Basic Income Policy in Comparative Perspective.’ with Perikoo, J., and Van Draanen, J., In: Handbook of Basic Income Studies (Palgrave Macmillan). ",
-        "text1": "Rincón, L. (Forthcoming: 2021). With Vlandas, T., 2021. Basic Income and Labour Market Policy. Handbook of Labour Market Policy in Rich Democracies in Edward Elgar, edited by Daniel Clegg and Niccolo Durazzi"
+        "title": "Book Chapters",
+        "text": "Perikoo, J., Rincon, L., and Van Draanen, J., 2019. ‘Framing Basic Income Policy in Comparative Perspective.’ In: Eds. Torry, M., Handbook of Basic Income Studies (Palgrave Macmillan).",
+        "text1": "Rincón, L., Vlandas, T., (Forthcoming). ‘Basic Income and Labour Market Policy. In: Eds., Clegg, D. and Durazzi, N. Handbook of Labour Market Policy Rich Democracies. Edward Elgar"
     },
     "working": {
-        "title": "WORKING PAPERS",
+        "title": "Working Papers",
         "text": "2021. ‘Priors are priority: scientific information, prior beliefs and support for universal basic income’",
         "text1": "2021. ‘The paradox of basic income: how redistribution preferences and perceptions shape support for welfare cash transfers’",
         "text2": "2021. ‘Revisiting redistribution: perceptions on the redistributive impact of cash transfers’",
         "text3": "2020. ‘From the gender gap to the gender jigsaw: preferences for welfare state reform’"
     },
     "media": {
-        "title": "MEDIA/OUTREACH/DISSEMINATION",
-        "text": "Science for policy podcast/ ",
-        "text1": "Evidence and Policy blog. "
+        "title": "Media/Outreach/Dissemination",
+        "text": "Aside from the academic research and teaching I also contribute to disseminating academic findings to a broader public. You can find some examples of this below.",
+        "text1": "Science for policy podcast/ ",
+        "text2": "Evidence and Policy blog. "
     },
     "contact": {
-        "title": "CONTACT",
-        "text": "CONTACT"
+        "title": "Contact",
+        "text": "You can contact me at ",
+        "text1": " or ",
+        "text2": "Office 313",
+        "text3": "Department of Social Sciences",
+        "text4": "Humboldt University ",
+        "text5": "Universitätsstraße 3B",
+        "text6": "10117 Berlin - Germany"
     }
 }

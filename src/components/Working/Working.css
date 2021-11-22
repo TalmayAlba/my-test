@@ -1,0 +1,19 @@
+.t-div-sty-w {
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+}
+
+.t-div-img-w {
+    /* background-color: red; */
+    background-image: url("../../images/foto6.jpg");
+    background-repeat: no-repeat;
+    background-size: 80% 100%;
+    background-position: 11rem;
+}
+
+.t-text-w {
+    font-family: TextGyreAdventor;
+    font-size: 14px;
+    padding: 1rem 1rem;
+}

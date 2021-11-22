@@ -52,9 +52,40 @@
 }
 
 .navbar-container {
-  letter-spacing: 0.3rem;
+  letter-spacing: 0.1rem;
 }
 
 .row {
   margin-right: 0;
+}
+
+@font-face {
+  font-family: 'ModernSansLight';
+  src: local('ModernSansLight'), url("./fonts/ModernSansLight.ttf") format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+
+@font-face {
+  font-family: 'Queensila';
+  src: local('Queensila'), url("./fonts/Queensila.ttf") format('truetype');
+  font-weight: normal;
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+
+@font-face {
+  font-family: 'SansSerifMedium';
+  src: local('SansSerifMedium'), url("./fonts/cmu.sans-serif-medium.ttf") format('truetype');
+  font-weight: normal;
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+
+@font-face {
+  font-family: 'TextGyreAdventor';
+  src: local('TextGyreAdventor'), url("./fonts/texgyreadventor-regular.otf") format('otf');
+  font-weight: normal;
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
 }

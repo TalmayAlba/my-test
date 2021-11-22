@@ -1,0 +1,31 @@
+.a-div-sty {
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+}
+
+.a-div-img {
+    /* background-color: red; */
+    background-image: url("../../images/leirerincon.jpg");
+    background-repeat: no-repeat;
+    background-size: 75% 100%;
+    background-position: 10rem;
+}
+.a-text {
+    font-family: TextGyreAdventor;
+    font-size: 14px;
+    padding: 1rem 0;
+    line-height: 2rem;
+    initial-letter: 2;
+}
+
+div.a-text-big:first-letter {
+    color: rgb(0, 0, 0);
+    float: left;
+    font-family: TextGyreAdventor;
+    font-size: 75px;
+    line-height: 60px;
+    padding-top: 4px;
+    padding-right: 8px;
+    padding-left: 3px;
+  }

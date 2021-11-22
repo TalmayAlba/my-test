@@ -47,5 +47,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://talmayalba.github.io/my-test"
+  "homepage": "https://talmayalba.github.io/",
+  "devDependencies": {
+    "file-loader": "^6.2.0"
+  }
 }

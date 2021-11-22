@@ -1,0 +1,18 @@
+.t-div-sty-p {
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+}
+
+.t-div-img-p {
+    /* background-color: red; */
+    background-image: url("../../images/foto3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.t-text-p {
+    font-family: TextGyreAdventor;
+    font-size: 14px;
+    padding: 1rem 1rem;
+}

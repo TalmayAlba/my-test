@@ -1,0 +1,37 @@
+.div-sty {
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+}
+
+.div-text {
+    background-color: rgba(238, 238, 238, 0.582);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.title {
+    font-family: ModernSansLight;
+    font-size: 42px;
+    padding-bottom: 2rem;
+    width: 20rem;
+    text-align: center;
+    line-height: 4rem;
+}
+
+.text {
+    font-family: TextGyreAdventor;
+    font-size: 16px;
+    padding: 0 5rem;
+    text-align: center;
+}
+
+.div-img {
+    /* background-color: red; */
+    background-image: url("../../images/leirerincon.jpg");
+    background-repeat: no-repeat;
+    background-size: 50% 100%;
+    background-position: 33.2rem;
+}

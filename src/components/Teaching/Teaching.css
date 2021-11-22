@@ -1,0 +1,27 @@
+.t-div-sty-t {
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+}
+
+.t-div-img-t {
+    /* background-color: red; */
+    background-image: url("../../images/foto4.jpg");
+    background-repeat: no-repeat;
+    background-size: 80% 100%;
+    background-position: 10rem;
+}
+
+.t-text-t {
+    font-family: TextGyreAdventor;
+    font-size: 14px;
+    padding: 1rem 1rem;
+}
+
+ul {
+    list-style-type: "✓";
+  }
+
+ul > li {
+    padding: 0.2rem 0 0.2rem 0.5rem;
+}
