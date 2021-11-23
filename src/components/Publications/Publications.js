@@ -8,7 +8,7 @@ function Publications({ t }) {
         <div>
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>Leire Rincon | {t('preferences.title')}</title>
+                <title>Leire Rincon | {t('publications.title')}</title>
             </Helmet>
             <div className="row">
                 <div className="col-xl-1"></div>
