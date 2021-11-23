@@ -2,7 +2,7 @@ import React from "react";
 import i18n from '../../i18n';
 import { withNamespaces } from "react-i18next";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Navbar, Container, Nav, NavDropdown} from 'react-bootstrap';
+import { Navbar, Container, Nav} from 'react-bootstrap';
 import './Header.css';
 import {
   BrowserRouter as Router,
@@ -12,22 +12,15 @@ import {
 } from "react-router-dom";
 import Home from '../Home/Home';
 import Aboutme from '../Aboutme/Aboutme';
-import Preferences from '../Preferences/Preferences';
-import Interest from '../Interest/Interest';
-import Information from '../Information/Information';
-import Gender from '../Gender/Gender';
+import Research from '../Research/Research';
 import Teaching from '../Teaching/Teaching';
 import Cv from '../Cv/Cv';
-import Journal from '../Journal/Journal';
-import Book from '../Book/Book';
-import Working from '../Working/Working';
+import Publications from '../Publications/Publications';
 import Media from '../Media/Media';
 import Contact from '../Contact/Contact';
 
 import TwitterIcon from '../../icons/twitter.svg';
 import LinkedInIcon from '../../icons/linkedin.svg';
-import FacebookIcon from '../../icons/facebook.svg';
-import InstagramIcon from '../../icons/instagram.svg';
 
 function Header ({ t }) {
 
@@ -49,27 +42,16 @@ function Header ({ t }) {
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav>
-                            <Nav.Link><img src={TwitterIcon} alt="Twitter" className="icon"/></Nav.Link>
-                            <Nav.Link><img src={LinkedInIcon} alt="LinkedIn" className="icon"/></Nav.Link>
-                            <Nav.Link><img src={FacebookIcon} alt="Facebook" className="icon"/></Nav.Link>
-                            <Nav.Link><img src={InstagramIcon} alt="Instagram" className="icon"/></Nav.Link>
+                            <a className="social-page-tw" href="https://twitter.com/leire_rincon" target="_blank" rel="noopener noreferrer"><img src={TwitterIcon} alt="Twitter" className="icon"/></a>
+                            <a href="https://www.linkedin.com/in/leire-rincon-ab36679b/?originalSubdomain=es" target="_blank" rel="noopener noreferrer"><img src={LinkedInIcon} alt="LinkedIn" className="icon"/></a>
                         </Nav>
                         <Nav className="m-auto">
                             <Nav.Link as={Link} to="/">{t('home.title')}</Nav.Link>
                             <Nav.Link as={Link} to="/aboutme">{t('aboutme.title')}</Nav.Link>
-                            <NavDropdown title={t('research.title')} id="basic-nav-dropdown">
-                                <NavDropdown.Item as={Link} to="/preferences">{t('preferences.title')}</NavDropdown.Item>
-                                <NavDropdown.Item as={Link} to="/interest">{t('interest.title')}</NavDropdown.Item>
-                                <NavDropdown.Item as={Link} to="/information">{t('information.title')}</NavDropdown.Item>
-                                <NavDropdown.Item as={Link} to="/gender">{t('gender.title')}</NavDropdown.Item>
-                            </NavDropdown>
+                            <Nav.Link as={Link} to="/research">{t('research.title')}</Nav.Link>
                             <Nav.Link as={Link} to="/teaching">{t('teaching.title')}</Nav.Link>
                             <Nav.Link as={Link} to="/cv">{t('cv.title')}</Nav.Link>
-                            <NavDropdown title={t('publications.title')} id="basic-nav-dropdown">
-                                <NavDropdown.Item as={Link} to="/journal">{t('journal.title')}</NavDropdown.Item>
-                                <NavDropdown.Item as={Link} to="/book">{t('book.title')}</NavDropdown.Item>
-                                <NavDropdown.Item as={Link} to="/working">{t('working.title')}</NavDropdown.Item>
-                            </NavDropdown>
+                            <Nav.Link as={Link} to="/publications">{t('publications.title')}</Nav.Link>
                             <Nav.Link as={Link} to="/media">{t('media.title')}</Nav.Link>
                             <Nav.Link as={Link} to="/contact">{t('contact.title')}</Nav.Link>
                         </Nav>
@@ -89,17 +71,8 @@ function Header ({ t }) {
                     <Route exact path="/aboutme">
                         <Aboutme />
                     </Route>
-                    <Route exact path="/preferences">
-                        <Preferences />
-                    </Route>
-                    <Route exact path="/interest">
-                        <Interest />
-                    </Route>
-                    <Route exact path="/information">
-                        <Information />
-                    </Route>
-                    <Route exact path="/gender">
-                        <Gender />
+                    <Route exact path="/research">
+                        <Research />
                     </Route>
                     <Route exact path="/teaching">
                         <Teaching />
@@ -107,14 +80,8 @@ function Header ({ t }) {
                     <Route exact path="/cv">
                         <Cv />
                     </Route>
-                    <Route exact path="/journal">
-                        <Journal />
-                    </Route>
-                    <Route exact path="/book">
-                        <Book />
-                    </Route>
-                    <Route exact path="/working">
-                        <Working />
+                    <Route exact path="/publications">
+                        <Publications />
                     </Route>
                     <Route exact path="/media">
                         <Media />

@@ -32,6 +32,8 @@
     /* background-color: red; */
     background-image: url("../../images/leirerincon.jpg");
     background-repeat: no-repeat;
-    background-size: 50% 100%;
-    background-position: 33.2rem;
+    background-position: 50% 0%;
+    background-size: 100%;
+    background-color: transparent;
+    /* background-size: cover; */
 }

@@ -53,13 +53,8 @@
 }
 
 .navbar-container {
-  letter-spacing: 0.2rem;
   font-family: TextGyreAdventor;
 }
-
-/* .container {
-  max-width: min-content;
-} */
 
 .icon {
   width: 16px;
@@ -73,4 +68,8 @@
 .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show > .nav-link {
   color: rgba(245, 0, 0, 0.9) !important;
   font-weight: bold !important;
+}
+
+.social-page-tw{
+  padding-right: 1em;
 }

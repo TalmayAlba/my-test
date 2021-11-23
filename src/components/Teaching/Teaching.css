@@ -8,8 +8,9 @@
     /* background-color: red; */
     background-image: url("../../images/foto4.jpg");
     background-repeat: no-repeat;
-    background-size: 80% 100%;
-    background-position: 10rem;
+    background-position: 50% 50%;
+    background-size: 100%;
+    background-color: transparent;
 }
 
 .t-text-t {
@@ -18,10 +19,6 @@
     padding: 1rem 1rem;
 }
 
-ul {
-    list-style-type: "✓";
-  }
-
-ul > li {
-    padding: 0.2rem 0 0.2rem 0.5rem;
+.space-between-t {
+    padding-bottom: 1em;
 }
