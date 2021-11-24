@@ -1,5 +1,6 @@
 {
     "welcome": "Welcome",
+    "here": "aquí",
     "home": {
         "title": "Home",
         "text": "Bienvenid@ a mi página web. Soy investigadora postdoctoral en la Cátedra de Sociología Política y Política Social de la Universidad Humboldt de Berlín."
@@ -9,7 +10,7 @@
         "text": "Soy investigadora postdoctoral en la Cátedra de Sociología Política y Política Social de la Universidad Humboldt de Berlín. Antes de incorporarme a Humboldt, fui becaria predoctoral en el IBEI y la UB, donde realicé mi tesis doctoral con financiación del Ministerio de Economía, Industria y Competitividad (FPI), vinculada al proyecto de Política de Transparencia en un contexto de Gobernanza Multinivel (IP: Laura Chaqués-Bonafont). Durante mi tesis he sido investigadora visitante en el departamento de Política y Relaciones Internacionales de la Universidad de Oxford.",
         "text1": "Antes de completar mi tesis doctoral, realicé el Máster en Análisis Político y Asesoramiento Institucional en la Universidad de Barcelona, donde también trabajé como asistente de investigación en el grupo de investigación Calidad de la Democracia (Q-Dem: ",
         "text2": "). Antes de esto, me gradué en Política y Relaciones Internacionales en la Universidad de Bath y trabajé para la embajada de Arabia Saudí en Madrid.",
-        "text3": "En la actualidad, la mayor parte de mi investigación gira en torno a los determinantes del apoyo a la Renta Básica Universal, que ha sido el tema principal de mi tesis doctoral. Sin embargo, mis intereses de investigación también incluyen una amplia gama de temas sobre los que puede encontrar más información aquí "
+        "text3": "En la actualidad, la mayor parte de mi investigación gira en torno a los determinantes del apoyo a la Renta Básica Universal, que ha sido el tema principal de mi tesis doctoral. Sin embargo, mis intereses de investigación también incluyen una amplia gama de temas sobre los que puede encontrar más información "
     },
     "research": {
         "title": "Investigación"
@@ -21,7 +22,7 @@
     "interest": {
         "title": "Grupos De Interés",
         "text": "Mi motivación para estudiar los grupos de interés surgió durante mis años como asistente de investigación en el grupo Q-DEM (",
-        "text1": ") y como investigadora predoctoral en la UB y el IBEI. Durante este tiempo trabajé con el equipo de Q-Dem en el Desarrollo de la primera base de datos de grupos de interés en España, que a dia de hoy es la más comprensiva, incluyendo grupos de interés que se han movilizado en diversas arenas. Además de esta base de datos, también diseñamos una encuesta dirigida a estos grupos de interés para conocer mejor sus recursos, actividades, actuación y estrategias de lobby (ver más aquí: ",
+        "text1": ") y como investigadora predoctoral en la UB y el IBEI. Durante este tiempo trabajé con el equipo de Q-Dem en el Desarrollo de la primera base de datos de grupos de interés en España, que a dia de hoy es la más comprensiva, incluyendo grupos de interés que se han movilizado en diversas arenas. Además de esta base de datos, también diseñamos una encuesta dirigida a estos grupos de interés para conocer mejor sus recursos, actividades, actuación y estrategias de lobby (ver más ",
         "text2": "). Parte de esta investigación derivó en un artículo académico (enlace: ",
         "text3": ") que explica las interacciones entre los grupos de interés y los partidos políticos, en el que mostramos que los partidos políticos mayoritarios siguen siendo los principales objetivos de los grupos de interés, pero esta interacción también depende de los recursos que poseen los grupos de interés, así como de los temas que tratan, siendo los temas más destacados los que intensifican las interacciones entre estos dos grupos de actores."
     },
@@ -31,8 +32,8 @@
     },
     "gender": {
         "title": "Desigualdad De Género, Violencia Sexual Y Feminismo",
-        "text": "Aunque la igualdad de género a nivel formal va en aumento, otras formas de desigualdad de género persisten e incluso se agravan, como la violencia sexual. No se trata sólo de una cuestión de justicia de género o de derechos humanos, sino también de una importante cuestión de salud. La invisibilización de la violencia sexual, la tolerancia de la opinión pública a esta forma de violencia y la capacidad del público para identificarla como tal, son cruciales para el desarrollo y la persistencia de la violencia sexual. En este sentido, mi investigación se centra en la exploración de las percepciones públicas de dicha violencia, uan de las preguntas principals que trato de solventar es si la opinion publica puede identificar todas las formas de violencia sexual como tal. En un Segundo plano, trato de indentificar qué intervenciones públicas podrían ser más efectivas para reducir la incidencia de esta forma de violencia.  Anteriormente, trabajé con un equipo multidisciplinar de cinco mujeres para explorar las diferentes formas de violencia sexual, de las que puedes leer más aquí. (puedes saber más aquí: ",
-        "text1": "). Actualmente estoy trabajando en una ampliación de esta investigación, utilizando un enfoque experimental que pondrá a prueba qué intervenciones políticas pueden ser más efectivas para reducir este tipo de violencia. Esta investigación está financiada por la Fundación Josep Irla (más información aquí: ",
+        "text": "Aunque la igualdad de género a nivel formal va en aumento, otras formas de desigualdad de género persisten e incluso se agravan, como la violencia sexual. No se trata sólo de una cuestión de justicia de género o de derechos humanos, sino también de una importante cuestión de salud. La invisibilización de la violencia sexual, la tolerancia de la opinión pública a esta forma de violencia y la capacidad del público para identificarla como tal, son cruciales para el desarrollo y la persistencia de la violencia sexual. En este sentido, mi investigación se centra en la exploración de las percepciones públicas de dicha violencia, uan de las preguntas principals que trato de solventar es si la opinion publica puede identificar todas las formas de violencia sexual como tal. En un Segundo plano, trato de indentificar qué intervenciones públicas podrían ser más efectivas para reducir la incidencia de esta forma de violencia.  Anteriormente, trabajé con un equipo multidisciplinar de cinco mujeres para explorar las diferentes formas de violencia sexual, de las que puedes leer más ",
+        "text1": ". Actualmente estoy trabajando en una ampliación de esta investigación, utilizando un enfoque experimental que pondrá a prueba qué intervenciones políticas pueden ser más efectivas para reducir este tipo de violencia. Esta investigación está financiada por la Fundación Josep Irla (más información ",
         "text2": ")."
     },
     "teaching": {

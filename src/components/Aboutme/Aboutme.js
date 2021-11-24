@@ -23,7 +23,7 @@ function Aboutme({ t }) {
                         </div>
                         <div>
                             {t('aboutme.text3')}
-                            <a href="/research">research</a>.
+                            <a href="/research">{t('here')}</a>.
                         </div>
                     </div>
                 </div>
