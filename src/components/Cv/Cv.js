@@ -22,7 +22,7 @@ function Cv({ t }) {
                 <div className="col-xl-1"></div>
                 <div className="col-xl-10">
                     <div className="cv-div-img col-xl-12"></div>
-                    <div className="cv-text">{t('cv.text')} <a onClick={saveFile} className="link">{t('cv.text1')}</a></div>
+                    <div className="cv-text">{t('cv.text')} <a  onClick={saveFile} className="link links">{t('cv.text1')}</a></div>
                 </div>
                 <div className="col-xl-1"></div>
             </div>

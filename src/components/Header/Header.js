@@ -44,16 +44,16 @@ function Header ({ t }) {
                     <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={() => setExpanded(expanded ? false : "expanded")} />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav>
-                            <a className="social-page-tw" href="https://twitter.com/leire_rincon" target="_blank" rel="noopener noreferrer"><img src={TwitterIcon} alt="Twitter" className="icon"/></a>
-                            <a href="https://www.linkedin.com/in/leire-rincon-ab36679b/?originalSubdomain=es" target="_blank" rel="noopener noreferrer"><img src={LinkedInIcon} alt="LinkedIn" className="icon"/></a>
+                            <a className="social-page-tw links" href="https://twitter.com/leire_rincon" target="_blank" rel="noopener noreferrer"><img src={TwitterIcon} alt="Twitter" className="icon"/></a>
+                            <a  className="links" href="https://www.linkedin.com/in/leire-rincon-ab36679b/?originalSubdomain=es" target="_blank" rel="noopener noreferrer"><img src={LinkedInIcon} alt="LinkedIn" className="icon"/></a>
                         </Nav>
                         <Nav className="m-auto">
                             <Nav.Link as={Link} to="/" onClick={() => setExpanded(false)}>{t('home.title')}</Nav.Link>
                             <Nav.Link as={Link} to="/aboutme" onClick={() => setExpanded(false)}>{t('aboutme.title')}</Nav.Link>
                             <Nav.Link as={Link} to="/research" onClick={() => setExpanded(false)}>{t('research.title')}</Nav.Link>
+                            <Nav.Link as={Link} to="/publications" onClick={() => setExpanded(false)}>{t('publications.title')}</Nav.Link>
                             <Nav.Link as={Link} to="/teaching" onClick={() => setExpanded(false)}>{t('teaching.title')}</Nav.Link>
                             <Nav.Link as={Link} to="/cv" onClick={() => setExpanded(false)}>{t('cv.title')}</Nav.Link>
-                            <Nav.Link as={Link} to="/publications" onClick={() => setExpanded(false)}>{t('publications.title')}</Nav.Link>
                             <Nav.Link as={Link} to="/media" onClick={() => setExpanded(false)}>{t('media.title')}</Nav.Link>
                             <Nav.Link as={Link} to="/contact" onClick={() => setExpanded(false)}>{t('contact.title')}</Nav.Link>
                         </Nav>
@@ -76,14 +76,14 @@ function Header ({ t }) {
                     <Route exact path="/research">
                         <Research />
                     </Route>
+                    <Route exact path="/publications">
+                        <Publications />
+                    </Route>
                     <Route exact path="/teaching">
                         <Teaching />
                     </Route>
                     <Route exact path="/cv">
                         <Cv />
-                    </Route>
-                    <Route exact path="/publications">
-                        <Publications />
                     </Route>
                     <Route exact path="/media">
                         <Media />

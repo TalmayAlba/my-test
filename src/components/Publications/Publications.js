@@ -15,7 +15,7 @@ function Publications({ t }) {
                 <div className="col-xl-10 t-div-sty-p">
                     <div className="col-xl-5 t-div-img-p"></div>
                     <div className="col-xl-7 t-text-p">
-                        <h3>{t('journal.title')}</h3>
+                        <h4>{t('journal.title')}</h4>
                         <div className="space-between-p">{t('journal.text')}</div>
                         <div className="space-between-p">{t('journal.text1')}</div>
                         <div className="space-between-p">{t('journal.text2')}</div>
@@ -23,11 +23,11 @@ function Publications({ t }) {
                         <div className="space-between-p">{t('journal.text4')}</div>
                         <div className="space-between-p">{t('journal.text5')}</div>
                         <br/>
-                        <h3>{t('book.title')}</h3>
+                        <h4>{t('book.title')}</h4>
                         <div className="space-between-p">{t('book.text')}</div>
                         <div className="space-between-p">{t('book.text1')}</div>
                         <br/>
-                        <h3>{t('working.title')}</h3>
+                        <h4>{t('working.title')}</h4>
                         <div className="space-between-p">{t('working.text')}</div>
                         <div className="space-between-p">{t('working.text1')}</div>
                         <div className="space-between-p">{t('working.text2')}</div>

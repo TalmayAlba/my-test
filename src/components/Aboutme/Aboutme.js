@@ -18,12 +18,12 @@ function Aboutme({ t }) {
                         {t('aboutme.text')}
                         <div>
                             {t('aboutme.text1')} 
-                            <a href="https://q-dem.com/">https://q-dem.com/</a>
+                            <a className="links" href="https://q-dem.com/">{t('qdem')}</a>
                             {t('aboutme.text2')}
                         </div>
                         <div>
                             {t('aboutme.text3')}
-                            <a href="/research">{t('here')}</a>.
+                            <a className="links" href="/research">{t('here')}</a>.
                         </div>
                     </div>
                 </div>

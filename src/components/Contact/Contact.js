@@ -17,9 +17,9 @@ function Contact({ t }) {
                     <div className="con-text">
                         <div>
                             {t('contact.text')}
-                            <a href="mailto:leire.rincon.garcia@hu-berlin.de">leire.rincon.garcia@hu-berlin.de</a>
+                            <a className="links" href="mailto:leire.rincon.garcia@hu-berlin.de">leire.rincon.garcia@hu-berlin.de</a>
                             {t('contact.text1')}
-                            <a href="lrincon@ibei.org.">lrincon@ibei.org.</a>.
+                            <a className="links" href="lrincon@ibei.org.">lrincon@ibei.org.</a>.
                         </div>
                         <div>{t('contact.text2')}</div>
                         <div>{t('contact.text3')}</div>

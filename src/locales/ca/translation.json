@@ -1,6 +1,7 @@
 {
     "welcome": "Welcome",
     "here": "aquí",
+    "qdem": "Q-DEM",
     "home": {
         "title": "Home",
         "text": "Benvinguts i benvingudes a la meva pàgina web! Soc investigadora postdoctoral en el Departament de Ciències Socials i la Càtedra de Sociologia Política i Política Social de la Universitat Humboldt de Berlín."
@@ -8,7 +9,7 @@
     "aboutme": {
         "title": "Sobre Mí",
         "text": "Soc investigadora postdoctoral en el Departament de Ciències Socials i la Càtedra de Sociologia Política i Política Social de la Universitat Humboldt de Berlín. Abans d'incorporar-me a Humboldt, vaig ser becària predoctoral a l'IBEI i la UB, on vaig realitzar la meva tesi doctoral amb finançament del Ministeri d'Economia, Indústria i Competitivitat (FPI), vinculada al projecte de Política de Transparència en un context de Governança Multinivell (IP: Laura Chaqués-Bonafont). Durant la meva tesi he estat investigadora visitant en el departament de Política i Relacions Internacionals de la Universitat d'Oxford.",
-        "text1": "Abans de completar la meva tesi doctoral, vaig realitzar el Màster en Anàlisi Política i Assessorament Institucional en la Universitat de Barcelona, on també vaig treballar com a assistent de recerca en el grup de recerca Qualitat de la Democràcia (Quality of democracy: ",
+        "text1": "Abans de completar la meva tesi doctoral, vaig realitzar el Màster en Anàlisi Política i Assessorament Institucional en la Universitat de Barcelona, on també vaig treballar com a assistent de recerca en el grup de recerca Qualitat de la Democràcia (",
         "text2": "). Abans d'això, em vaig graduar en Política i Relacions Internacionals en la Universitat de Bath i vaig treballar per a l'ambaixada de l'Aràbia Saudita a Madrid.",
         "text3": "En l'actualitat, la major part de la meva recerca gira entorn dels determinants del suport a la Renda Bàsica Universal, que ha estat el tema principal de la meva tesi doctoral. No obstant això, els meus interessos de recerca també inclouen una àmplia gamma de temes sobre els quals pots trobar més informació "
     },
@@ -21,8 +22,8 @@
     },
     "interest": {
         "title": "Grups d'interès",
-        "text": "La meva motivació per a estudiar els grups d'interès va sorgir durant els meus anys com a assistent de recerca en el grup Q-Dem(",
-        "text1": ") i com a investigadora predoctoral en la UB i l'IBEI. Durant aquest temps vaig treballar amb l'equip de Q-Dem en el desenvolupament de la primera base de dades de grups d'interès a Espanya, que avui dia és la més comprensiva, incloent-hi grups d'interès que s'han mobilitzat en diversos àmbits. A més d'aquesta base de dades, també vam dissenyar una enquesta dirigida a aquests grups d'interès amb la finalitat de conèixer millor els seus recursos, activitats, actuació i estratègies de lobby (vegeu més ",
+        "text": "La meva motivació per a estudiar els grups d'interès va sorgir durant els meus anys com a assistent de recerca en el grup ",
+        "text1": " i com a investigadora predoctoral en la UB i l'IBEI. Durant aquest temps vaig treballar amb l'equip de Q-Dem en el desenvolupament de la primera base de dades de grups d'interès a Espanya, que avui dia és la més comprensiva, incloent-hi grups d'interès que s'han mobilitzat en diversos àmbits. A més d'aquesta base de dades, també vam dissenyar una enquesta dirigida a aquests grups d'interès amb la finalitat de conèixer millor els seus recursos, activitats, actuació i estratègies de lobby (vegeu més ",
         "text2": "). Part d'aquesta recerca va derivar en un article acadèmic (enllaç: ",
         "text3": ") que explica les interaccions entre els grups d'interès i els partits polítics, en el qual vam mostrar que els partits polítics majoritaris continuen sent el principal objectiu dels grups d'interès, però aquesta interacció també depèn dels recursos que posseeixen aquests grups, així com dels temes que tracten, sent els temes més destacats els que intensifiquen les interaccions entre aquests dos actors."
     },
@@ -77,8 +78,8 @@
     "media": {
         "title": "Mitjans",
         "text": "Aside from the academic research and teaching I also contribute to disseminating academic findings to a broader public. You can find some examples of this below.",
-        "text1": "Science for policy podcast/ ",
-        "text2": "Evidence and Policy blog. "
+        "text1": ". Science for policy podcast. Science Advice for Policy by European Academies (SAPEA).",
+        "text2": " Evidence and Policy blog. "
     },
     "contact": {
         "title": "Contacte",

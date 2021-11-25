@@ -59,6 +59,15 @@
   margin-right: 0;
 }
 
+.links {
+  color: black;
+}
+
+a:hover.links {
+  color: black;
+  font-weight: bold;
+}
+
 @font-face {
   font-family: 'ModernSansLight';
   src: local('ModernSansLight'), url("./fonts/ModernSansLight.ttf") format('truetype');
